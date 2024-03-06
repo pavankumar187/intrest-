@@ -8,9 +8,14 @@ div{
     justify-content: center;
     align-self: center;
     margin: auto;
+    align-content: center;
+    align-items: center;
+    ruby-align: center;
 }
+
 div:hover{
     box-shadow: 5px 5px hotpink ;
+    transform: rotateX('120');
 }
 button{
     background-color: blue;

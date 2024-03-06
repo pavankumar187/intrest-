@@ -7,6 +7,8 @@ function Getamount()
     si=p*t*r/100;
     amt=+p+si
     intrest.value=`intrestamount :`+si;
-    totamtvalue=`Totalamount :`+si;
+    totamt.value=`Totalamount :`+si;
+    document.write(`totamt.value`);
+    prompt(`valid time`);
 
 }
