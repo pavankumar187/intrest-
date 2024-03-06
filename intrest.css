@@ -1,0 +1,19 @@
+div{
+    text-align: center;
+    padding: auto;
+    height: auto;
+    background-color: aqua;
+    width: 450px;
+    border-radius: 10px;
+    justify-content: center;
+    align-self: center;
+    margin: auto;
+}
+div:hover{
+    box-shadow: 5px 5px hotpink ;
+}
+button{
+    background-color: blue;
+
+
+}
