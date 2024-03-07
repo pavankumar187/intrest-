@@ -2,7 +2,7 @@ div{
     text-align: center;
     padding: auto;
     height: auto;
-    background-color: aqua;
+    background-color: whitesmoke;
     width: 450px;
     border-radius: 10px;
     justify-content: center;
@@ -14,11 +14,17 @@ div{
 }
 
 div:hover{
-    box-shadow: 5px 5px hotpink ;
-    transform: rotateX('120');
+    box-shadow: 5px 5px 5px 5px hotpink ;
 }
 button{
     background-color: blue;
 
+
+}
+input{
+    margin-bottom:20px;
+    border: 0cap;
+    border-bottom: 2px solid black;
+    padding: 2px 15px;
 
 }
